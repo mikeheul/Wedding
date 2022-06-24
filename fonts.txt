@@ -1,0 +1,6 @@
+https://fonts.google.com/specimen/Great+Vibes?preview.text=Joseph%20%26%20Anna&preview.text_type=custom
+https://fonts.google.com/specimen/Amatic+SC?preview.text=Joseph%20%26%20Anna&preview.text_type=custom&query=amatic#standard-styles
+https://fonts.google.com/specimen/Open+Sans
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Great+Vibes&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
